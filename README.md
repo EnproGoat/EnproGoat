@@ -5,7 +5,9 @@
 
 - 👯 I'm also working on **a schelude monitor who detect change**
   
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# and Javascript**
+
+- ✊​ I'm planning to learn after that **React Native**
 
 - 📫 How to reach me **lokcedriclok@gmail.com**
 
