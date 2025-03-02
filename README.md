@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cedric aka Enpro</h1>
 <h3 align="center">A young developer from France</h3>
 
-- 🔭 I’m currently working on **a webscrapping project**
-
-- 👯 I'm also working on **a schelude monitor who detect change**
+- 🔭 I’m currently working on **a minesweeper**
   
 - 🌱 I’m currently learning **C# and Javascript**
 
