@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a minesweeper**
   
-- 🌱 I’m currently learning **C# and Javascript**
+- 🌱 I’m currently learning **Javascript**
 
-- ✊​ I'm planning to learn after that **React Native**
+- ✊​ I'm planning to learn after that **React and typescript**
 
 - 📫 How to reach me **lokcedriclok@gmail.com**
 
