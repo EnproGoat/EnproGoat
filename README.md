@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cedric aka Enpro</h1>
 <h3 align="center">A young developer from France</h3>
 
-- 🔭 I’m currently working on **a minesweeper**
+- 🔭 I’m currently working on **a to do list** so i can learn the basic of what i'm learning below
   
 - 🌱 I’m currently learning **React, typescript and Next.js**
 
