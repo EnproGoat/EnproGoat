@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a to do list** so I can learn the basic of what i'm learning below
   
-- 🌱 I’m currently learning **React, typescript and Next.js**
+- 🌱 I’m currently learning **React, typescript, express.js and Next.js**
 
-- ✊​ I'm planning to learn after that **React and typescript**
+- ✊​ I'm planning to learn after that **React native**
 
 - 📫 How to reach me **lokcedriclok@gmail.com**
 
