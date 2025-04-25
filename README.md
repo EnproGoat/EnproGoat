@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cedric aka Enpro</h1>
 <h3 align="center">A young developer from France</h3>
 
-- 🔭 I’m currently working on **a to do list** so I can learn the basis of what i'm learning below
+- 🔭 I’m currently doing an internship at Pop Eye.
   
-- 🌱 I’m currently learning **React, typescript, express.js and Next.js**
-
-- ✊​ I'm planning to learn after that **React native**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **lokcedriclok@gmail.com**
 
-- ⚡ Also **I'm looking for an internship in France**
+- ⚡ Also **I'm looking for an apprenticeship in France**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
