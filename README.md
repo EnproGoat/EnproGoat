@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cedric aka Enpro</h1>
 <h3 align="center">A young developer from France</h3>
 
-- 🔭 I’m currently doing an internship at Pop Eye.
+- 🔭 I’m currently a student at UPEC.
   
 - 🌱 I’m currently learning **React Native**
 
